@@ -2,6 +2,12 @@
 
 Dieses kleine Tool löst das "Ewige-Einkaufsliste-für-mehr-Personen-Problem". Kein Whatsapp, E-Mail und Co., keine Medienbrüche und keine oversized Google Docs-Lösungen mit Overhead, scheiss-Bedienung und fremdem Cloud-Zeugs.
 
+## Hinweise
+
+- Der Branch `master` ist das Default-Branch-Setup dieses Repos.
+- Für ältere PHP-Installationen ist die Kompatibilität mit PHP 5.3.4 dokumentiert.
+- Wenn du lokal entwickelst, prüfe zusätzlich die REST-API und die SQLite-Konfiguration.
+
 ## Anforderung
 
 ### Server
