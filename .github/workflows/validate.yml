@@ -6,6 +6,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: |
-        for f in *.html; do
-          [ -f "$f" ] && echo "✅ $f"
-        done
+          for f in *.html; do
+            [ -f "$f" ] && echo "✅ $f"
+          done
